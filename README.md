@@ -1,8 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=320&section=header&text=PakaOxO's%20Github%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20every%20visitors%20to%20my%20github!&descAlignY=51&descAlign=72)
-![PakaOxO's GitHub stats](https://github-readme-stats.vercel.app/api?username=PakaOxO&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koka)](https://solved.ac/koka/)
-
-<br>
 
 ## **Tech Stack**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakaOxO&layout=compact&theme=gruvbox)
@@ -18,3 +14,9 @@
 
 ## **Projects**
 업데이트 예정입니다!!
+
+<br>
+
+## **Stats**
+![PakaOxO's GitHub stats](https://github-readme-stats.vercel.app/api?username=PakaOxO&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koka)](https://solved.ac/koka/)
