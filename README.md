@@ -1,9 +1,13 @@
 ## **PakaOxO's Profile**
 
 <div id="tech_stack" style="display: flex;">
-  <div id="commit_language">
+  
+  <div id="commit_language" markdown="1">
+    
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakaOxO&layout=compact&theme=gruvbox)
+    
   </div>
+  
   <div id="languages" style="font-size: 14px">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -13,5 +17,6 @@
   </div>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakaOxO&layout=compact&theme=gruvbox)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koka)](https://solved.ac/koka/)
 ![PakaOxO's GitHub stats](https://github-readme-stats.vercel.app/api?username=PakaOxO&show_icons=true&theme=radical)<br>
