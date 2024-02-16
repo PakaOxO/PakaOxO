@@ -13,7 +13,7 @@
 <br>
 
 ## **Projects**
-[포트폴리오 다운로드](Portfolio(통합)_이정현_FE-압축됨.pdf)
+[포트폴리오 다운로드](https://github.com/PakaOxO/PakaOxO/blob/main/Portfolio_%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB_FE_%E1%84%90%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%B8.pdf)
 
 <br>
 
