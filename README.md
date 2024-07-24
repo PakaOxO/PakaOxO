@@ -1,4 +1,4 @@
-<h2 align="center">Tech Stack</h2>
+<h3 align="center">Tech Stack</h3>
 
 <div id="tech" style="font-size: 12px" align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -17,7 +17,6 @@
 
 <br>
 
-<h3 align="center">Studying & Interesting</h3>
 <div id="studying" style="font-size: 12px" align="center">
   <img src="https://img.shields.io/badge/Next-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
