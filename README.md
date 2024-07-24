@@ -1,11 +1,5 @@
 <h3 align="center">Tech Stack</h3>
 
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakaOxO&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
 <div id="tech" style="font-size: 12px" align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -32,20 +26,11 @@
 <br />
 <br />
 
-<h3 align="center">Projects</h3>
-
-<div align="center">
-  
-  [포트폴리오](https://github.com/PakaOxO/PakaOxO)
-  
-</div>
-
-<br>
-
 <h3 align="center">Stats</h3>
 
 <div align="center">
-
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakaOxO&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   ![PakaOxO's GitHub stats](https://github-readme-stats.vercel.app/api?username=PakaOxO&show_icons=true&theme=radical)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koka)](https://solved.ac/koka/)
   
