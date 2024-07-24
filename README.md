@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=320&section=header&text=PakaOxO's%20Github%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20every%20visitors%20to%20my%20github!&descAlignY=51&descAlign=72)
 
 <h3 align="center">Tech Stack</h3>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakaOxO&layout=compact&theme=gruvbox)
 
 <div id="tech" style="font-size: 14px" align="center">
