@@ -10,15 +10,9 @@
 
 <div id="tech" style="font-size: 12px" align="center">
   <img src="https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=eeeeee">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=eeeeee">
-</div>
-
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakaOxO&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koka)](https://solved.ac/koka/)
-  
 </div>
 
 <br>
@@ -28,4 +22,13 @@
   <img src="https://img.shields.io/badge/Next-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-0000000?style=for-the-badge&logo=unity&logoColor=white">
+</div>
+
+<br>
+
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakaOxO&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koka)](https://solved.ac/koka/)
+  
 </div>
