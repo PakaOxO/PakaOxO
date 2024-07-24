@@ -1,13 +1,28 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=320&section=header&text=PakaOxO's%20Github%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20every%20visitors%20to%20my%20github!&descAlignY=51&descAlign=72)
 
-## **Tech Stack**
+<h3 align="center">Tech Stack</h3>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakaOxO&layout=compact&theme=gruvbox)
-<div id="languages" style="font-size: 14px">
+<div id="tech" style="font-size: 14px" align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React.js-46CAF1?style=for-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-46CAF1?style=for-the-badge&logo=React&logoColor=white">
+</div>
+
+<div id="tech" style="font-size: 14px" align="center">
+  <img src="https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=eeeeee">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=eeeeee">
+</div>
+
+<br>
+
+<h3 align="center">Studying & Interesting</h3>
+<div id="studying" style="font-size: 14px" align="center">
+  <img src="https://img.shields.io/badge/Next-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-0000000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
 
 <br>
