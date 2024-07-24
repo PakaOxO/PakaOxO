@@ -2,7 +2,9 @@
 
 <h3 align="center">Tech Stack</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakaOxO&layout=compact&theme=gruvbox)
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakaOxO&layout=compact&theme=gruvbox)
+</div>
 
 <div id="tech" style="font-size: 14px" align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
