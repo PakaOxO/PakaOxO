@@ -1,6 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=320&section=header&text=PakaOxO's%20Github%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20every%20visitors%20to%20my%20github!&descAlignY=51&descAlign=72)
 
-<h3 align="center">Tech Stack</h3>
+<h2 align="center">Pinned</h2>
+
+<div align="center">
+
+  [![Gist Card](https://github-readme-stats.vercel.app/[api/gist?id=bbfce31e0217a3689c8d961a356cb10d](https://github.com/PakaOxO/TIL))](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+  
+</div>
+
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
   
@@ -33,11 +41,17 @@
 
 <br>
 
-## **Projects**
-[포트폴리오 다운로드](https://github.com/PakaOxO/PakaOxO/blob/main/Portfolio_%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%92%E1%85%A7%E1%86%AB_FE_%E1%84%90%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%B8.pdf)
+<h2 align="center">Projects</h2>
+
+  [포트폴리오](https://github.com/PakaOxO/PakaOxO)
 
 <br>
 
-## **Stats**
-![PakaOxO's GitHub stats](https://github-readme-stats.vercel.app/api?username=PakaOxO&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koka)](https://solved.ac/koka/)
+<h2 align="center">Stats</h2>
+
+<div align="center">
+
+  ![PakaOxO's GitHub stats](https://github-readme-stats.vercel.app/api?username=PakaOxO&show_icons=true&theme=radical)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koka)](https://solved.ac/koka/)
+  
+</div>
