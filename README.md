@@ -1,12 +1,5 @@
 <h2 align="center">Tech Stack</h2>
 
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakaOxO&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koka)](https://solved.ac/koka/)
-  
-</div>
-
 <div id="tech" style="font-size: 12px" align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
