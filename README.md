@@ -1,4 +1,11 @@
-<h3 align="center">Tech Stack</h3>
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakaOxO&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koka)](https://solved.ac/koka/)
+  
+</div>
 
 <div id="tech" style="font-size: 12px" align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -22,13 +29,4 @@
   <img src="https://img.shields.io/badge/Next-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-0000000?style=for-the-badge&logo=unity&logoColor=white">
-</div>
-
-<br>
-
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakaOxO&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koka)](https://solved.ac/koka/)
-  
 </div>
