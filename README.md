@@ -3,7 +3,9 @@
 <h3 align="center">Tech Stack</h3>
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakaOxO&layout=compact&theme=gruvbox)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PakaOxO&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 <div id="tech" style="font-size: 14px" align="center">
