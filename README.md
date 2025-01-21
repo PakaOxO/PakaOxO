@@ -17,6 +17,8 @@
 
 <br>
 
+<h3 align="center">Studying</h3>
+
 <div id="studying" style="font-size: 12px" align="center">
   <img src="https://img.shields.io/badge/Next-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
