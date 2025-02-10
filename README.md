@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-46CAF1?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Next-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </div>
 
 <div id="tech" style="font-size: 12px" align="center">
@@ -20,7 +21,6 @@
 <h3 align="center">Studying</h3>
 
 <div id="studying" style="font-size: 12px" align="center">
-  <img src="https://img.shields.io/badge/Next-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-0000000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
